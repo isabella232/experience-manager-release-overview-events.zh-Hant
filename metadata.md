@@ -18,4 +18,4 @@ ht-degree: 100%
 
 metadata.md 檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊 TOC.md 檔案。如果想要變更任何使用手冊的 metadata.md 內容，請在 TOC.md 檔案中變更。
 
-查閱&#x200B;**解決方案**、**產品** 和&#x200B;**類型**&#x200B;的有效值列表的[中繼資料](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)。
+查閱&#x200B;**解決方案**、**產品**&#x200B;和&#x200B;**類型**&#x200B;的有效值列表的[中繼資料](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)。
