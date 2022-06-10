@@ -3,10 +3,10 @@ title: Adobe Experience Manager as a Cloud Service 版本總覽
 description: 取得 Adobe Experience Manager as a Cloud Service 最新功能快速總覽
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
-source-git-commit: 4076daa66fe9653c3d29de2ef3cf187664eae962
-workflow-type: ht
-source-wordcount: '132'
-ht-degree: 100%
+source-git-commit: 10576f89df0286473b010138cd669cfeb17c30ba
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,6 +15,28 @@ ht-degree: 100%
 取得 Adobe Experience Manager as a Cloud Service 最新功能快速總覽。這些是 AEM 產品團隊提供的簡短影片；每段影片大約 10 分鐘，主要是分享最新版本的摘要。
 
 ## 上次更新
+
+<table style="max-width: 50%;">
+<tr>
+  <td>
+    <a href="./2022/2022-5-0.md">
+      <img alt="2022.4.0 版本" src="./2022/assets/2022-5-0-thumb.png" />
+    </a>
+    <div>
+      <a href="./2022/2022-5-0.md">
+        <strong>發佈 | 2022.5.0</strong>
+        <br/>
+      </a>
+        <em>發行日期2022年6月9日 </em>
+    </div>
+    <p>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">發行說明</a>
+    <p>
+  </td>
+</tr>  
+</table>
+
+## 以前的更新
 
 <table style="max-width: 50%;">
 <tr>
@@ -33,13 +55,6 @@ ht-degree: 100%
       <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">發行說明</a>
     <p>
   </td>
-</tr>  
-</table>
-
-## 以前的更新
-
-<table style="max-width: 50%;">
-<tr>
   <td>
     <a href="./2022/2022-3-0.md">
       <img alt="2022.3.0 版本" src="./2022/assets/2022-3-0.png" />
@@ -55,8 +70,6 @@ ht-degree: 100%
       <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">發行說明</a>
     <p>
   </td>
-</tr> 
-<tr>
   <td>
     <a href="./2022/2022-1-0.md">
       <img alt="2022-1-0 版本" src="./2022/assets/2022-1-0.png" />
@@ -72,6 +85,8 @@ ht-degree: 100%
       <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2022/release-notes-2022-1-0.html">發行說明</a>
     <p>
   </td>
+  </tr>
+  <tr>
   <td>
     <a href="./2021/2021-11-0.md">
       <img alt="2021.11.0 AEM CS 版本" src="./2021/assets/2021-11-0.png" />
