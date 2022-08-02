@@ -3,10 +3,10 @@ title: Adobe Experience Manager as a Cloud Service 版本總覽
 description: 取得 Adobe Experience Manager as a Cloud Service 最新功能快速總覽
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
-source-git-commit: 6393e1b8d82edca9bf2cbbfeebdd8ac821577a45
+source-git-commit: ee9bbd6c9858fa25509ef23eba84c0b08111d132
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 97%
+source-wordcount: '162'
+ht-degree: 100%
 
 ---
 
@@ -17,27 +17,25 @@ ht-degree: 97%
 
 ## 上次更新
 
-<table style="max-width: 50%;">
+<!--- <table style="max-width: 50%;">
   <tr>
     <td>
       <a href="./2022/2022-7-0.md">
-        <img alt="2022.7.0 版本" src="./2022/assets/2022-7-0-thumb.png" />
+        <img alt="2022.7.0 Release" src="./2022/assets/2022-7-0-thumb.png" />
       </a>
       <div>
         <a href="./2022/2022-7-0.md">
-          <strong>發佈 | 2022.7.0</strong>
+          <strong>Release | 2022.7.0</strong>
           <br/>
         </a>
-          <em>發行日期2022年8月8日 </em>
+          <em>Release date  Aug 8, 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">發行說明</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
       <p>
     </td>
   </tr>  
-</table>
-
-## 以前的更新
+</table> --->
 
 <table style="max-width: 50%;">
   <tr>
@@ -56,6 +54,28 @@ ht-degree: 97%
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">發行說明</a>
       <p>
     </td>
+  </tr>  
+</table>
+
+## 以前的更新
+
+<table style="max-width: 50%;">
+  <tr>
+      <!--- <td>
+      <a href="./2022/2022-6-0.md">
+        <img alt="2022.6.0 Release" src="./2022/assets/2022-6-0-thumb.png" />
+      </a>
+      <div>
+        <a href="./2022/2022-6-0.md">
+          <strong>Release | 2022.6.0</strong>
+          <br/>
+        </a>
+          <em>Release date  June 30, 2022 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+      <p>
+    </td> --->
     <td>
       <a href="./2022/2022-5-0.md">
         <img alt="2022.5.0 版本" src="./2022/assets/2022-5-0-thumb.png" />
