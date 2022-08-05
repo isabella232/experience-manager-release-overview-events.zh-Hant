@@ -4,7 +4,7 @@ description: 取得 Adobe Experience Manager as a Cloud Service 最新功能快�
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: ee9bbd6c9858fa25509ef23eba84c0b08111d132
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
 ht-degree: 100%
 
