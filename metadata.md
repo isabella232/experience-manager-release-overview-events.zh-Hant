@@ -1,12 +1,13 @@
 ---
 cloud: Experience Cloud
-solution: Experience Manager as a Cloud Service
+solution: Experience Manager
+version: Cloud Service
 product: Adobe Experience Manager
 type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experience-manager-release-overview-events.zh-Hant
 index: true
-source-git-commit: f6244f4853d8b334c549bc6b779cc8868a71bc7e
+source-git-commit: dbe17018edb165127f0386631217ca14e269a97d
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
