@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager as a Cloud Service 版本總覽
 user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: 取得 Adobe Experience Manager as a Cloud Service 最新功能快速總覽
 breadcrumb-title: AEM CS 版本更新
-source-git-commit: 2d88e857596635f74b6c551ab7f79440744bcff1
+source-git-commit: 8dde75778f146a1e41330404143427137bd15c6e
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '57'
 ht-degree: 100%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 100%
 
 + [概覽](overview.md)
 + 2022 {#2022}
+   + [2022.9.0](./2022/2022-9-0.md)
    + [2022.8.0](./2022/2022-8-0.md)
    + [2022.7.0](./2022/2022-7-0.md)
    + [2022.6.0](./2022/2022-6-0.md)
