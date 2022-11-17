@@ -4,9 +4,9 @@ description: 取得 Adobe Experience Manager as a Cloud Service 最新功能快�
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 105313398adca0568fae0b25a5df876729abdebd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 98%
       </a>
       <div>
         <a href="./2022/2022-10-0.md">
-          <strong>發行 | 2022.10.0</strong>
+          <strong>版本 | 2022.10.0</strong>
           <br/>
         </a>
-          <em>發行日期2022年10月13日 </em>
+          <em>發行日期：2022 年 10 月 13 日</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">發行說明</a>
