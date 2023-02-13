@@ -4,9 +4,9 @@ description: 取得 Adobe Experience Manager as a Cloud Service 最新功能快�
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: f0bb8749fd075a4fcc366d28c6606087e323a9f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 98%
       </a>
       <div>
         <a href="./2023/2023-1-0.md">
-          <strong>發行 | 2023.1.0</strong>
+          <strong>版本 | 2023.1.0</strong>
           <br/>
         </a>
-          <em>發行日期2023年2月 </em>
+          <em>發行日期：2023 年 2 月</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">發行說明</a>
